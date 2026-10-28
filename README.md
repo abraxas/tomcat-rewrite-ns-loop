@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/tomcat-rewrite-ns-loop">tomcat-rewrite-ns-loop</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/tomcat-rewrite-ns-loop"><strong>https://abraxaslabs.tech/research/tomcat-rewrite-ns-loop</strong></a>
+</p>
+
 
 # tomcat-rewrite-ns-loop
 
